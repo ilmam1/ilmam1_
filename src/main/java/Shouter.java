@@ -7,6 +7,6 @@ public class Shouter {
 		
 		System.out.println(shoutMessage);
 		
-	}
+	
 	
 }
